@@ -7,7 +7,7 @@ fun main() {
     var temperature = read.nextInt()
 
     if (temperature <25){
-        print("It is cold")
+        println("It is cold")
     }
     else{
         println("It is hot")
